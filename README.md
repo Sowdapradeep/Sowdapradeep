@@ -112,6 +112,53 @@
 
 ---
 
+## 🌟 Featured Projects
+
+---
+
+### 🛒 Wholesale market E-Commerce Platform
+**Tech Stack:** React, Node.js, Express, MongoDB, Stripe  
+**Description:**  
+A full-stack e-commerce application with user authentication, product management, cart, and secure payment integration. Designed for scalability and performance.
+
+🔹 Features:
+- User authentication & authorization
+- Product listing & search
+- Cart & checkout system
+- Secure payment gateway
+
+🔗 **GitHub:** https://github.com/Sowdapradeep/your-repo-link  
+
+---
+
+### 🎵 Songify – AI Mood-Based Music Recommendation
+**Tech Stack:** Python, OpenCV, TensorFlow, Deep Learning  
+**Description:**  
+An AI-powered system that detects facial expressions in real time and recommends songs based on the user’s mood.
+
+🔹 Features:
+- Real-time face detection
+- Emotion classification using CNN
+- Personalized song recommendations
+
+🔗 **GitHub:** https://github.com/Sowdapradeep/songify  
+
+---
+
+### 🌾 Smart Farming Automation System
+**Tech Stack:** IoT, Python, Cloud, Data Analytics  
+**Description:**  
+An Agri-Tech solution focused on smart irrigation, fertilizer optimization, and automation to reduce farming costs and improve yield.
+
+🔹 Features:
+- Sensor-based data collection
+- Automated irrigation control
+- Cloud-based monitoring dashboard
+
+🔗 **GitHub:** https://github.com/Sowdapradeep/smart-farming  
+
+---
+
 <p align="center">
   ✨ <b>“Building scalable systems, intelligent solutions, and meaningful experiences.”</b> ✨
 </p>
