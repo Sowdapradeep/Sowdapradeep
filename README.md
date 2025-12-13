@@ -128,9 +128,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sowdapradeep&theme=react-dark&area=true&hide_border=true" />
 </p>
 
-### LeetCode
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/PRADEEP__05?theme=dark&ext=contest&width=600"/>
+  <img 
+    src="https://leetcard.jacoblin.cool/PRADEEP__05?theme=dark&font=Montagu%20Slab&ext=heatmap" 
+    width="100%" 
+    alt="LeetCode Stats"
+  />
 </p>
 
 ### CodeChef
