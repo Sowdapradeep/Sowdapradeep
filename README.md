@@ -158,6 +158,19 @@ An Agri-Tech solution focused on smart irrigation, fertilizer optimization, and 
 🔗 **GitHub:** https://github.com/Sowdapradeep/smart-farming  
 
 ---
+### 👨‍🍳 Chef Claude – AI-Powered Recipe Generator
+**Tech Stack:** React, Node.js, Hugging Face API, NLP, REST APIs  
+**Description:**  
+Chef Claude is an AI-powered recipe generation application that uses the Hugging Face API to suggest recipes based on ingredients provided by the user. The system leverages natural language processing to generate meaningful, creative, and practical cooking instructions in real time.
+
+🔹 Features:
+- Ingredient-based recipe generation using Hugging Face models
+- AI-generated cooking instructions and tips
+- Real-time API integration with dynamic responses
+- Clean and responsive user interface
+
+🔗 **GitHub:** https://github.com/Sowdapradeep/chef-clade  
+---
 
 <p align="center">
   ✨ <b>“Building scalable systems, intelligent solutions, and meaningful experiences.”</b> ✨
