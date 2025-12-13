@@ -48,14 +48,14 @@
 
 ## 🧑‍💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
 ---
 
 ## 🌐 Web Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express" />
 </p>
 
 ---
