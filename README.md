@@ -116,20 +116,30 @@
 </p>
 
 ---
+## 🔥 Submission Activity
 
-## 🚀 Competitive Programming Performance
-  ## Leetcode
+### GitHub
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/PRADEEP__05?theme=glass&ext=contest" height="220"/>
+  <img src="https://ghchart.rshah.org/409ba5/Sowdapradeep" />
 </p>
-  ## Code force
+
+### GitHub Timeline
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pradeep005&theme=transparent" height="220"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sowdapradeep&theme=react-dark&area=true&hide_border=true" />
 </p>
-  ## Codechef
+
+### LeetCode
 <p align="center">
-  <img src="https://cp-logo.vercel.app/codechef/pradeepsa" height="130"/>
+  <img src="https://leetcard.jacoblin.cool/PRADEEP__05?theme=dark&ext=contest&width=600"/>
 </p>
+
+### CodeChef
+<p align="center">
+  <a href="https://www.codechef.com/users/pradeepsa">
+    <img src="https://img.shields.io/badge/CodeChef-Active%20Practice-brown?style=for-the-badge&logo=codechef"/>
+  </a>
+</p>
+
 
 ## 🌟 Featured Projects
 
