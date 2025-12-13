@@ -117,6 +117,20 @@
 
 ---
 
+## 🚀 Competitive Programming Performance
+  ## Leetcode
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/PRADEEP__05?theme=glass&ext=contest" height="220"/>
+</p>
+  ## Code force
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pradeep005&theme=transparent" height="220"/>
+</p>
+  ## Codechef
+<p align="center">
+  <img src="https://cp-logo.vercel.app/codechef/pradeepsa" height="130"/>
+</p>
+
 ## 🌟 Featured Projects
 
 ---
@@ -174,7 +188,8 @@ Chef Claude is an AI-powered recipe generation application that uses the Hugging
 - Real-time API integration with dynamic responses
 - Clean and responsive user interface
 
-🔗 **GitHub:** https://github.com/Sowdapradeep/chef-clade  
+🔗 **GitHub:** https://github.com/Sowdapradeep/chef-clade
+
 ---
 
 <p align="center">
