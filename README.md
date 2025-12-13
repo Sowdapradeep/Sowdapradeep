@@ -127,7 +127,7 @@ A full-stack e-commerce application with user authentication, product management
 - Cart & checkout system
 - Secure payment gateway
 
-🔗 **GitHub:** https://github.com/Sowdapradeep/your-repo-link  
+🔗 **GitHub:** https://github.com/Sowdapradeep/wholesale-market-js
 
 ---
 
