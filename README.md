@@ -2,9 +2,14 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="70%" />
 </p>
-
-<h1 align="center">👋 Hi, I'm Sa Pradeep</h1>
-<h3 align="center">AI & Full-Stack Developer | Cloud Computing</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+,+I'm+Pradeep;" />
+  
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+and+Full-Stack+Developer+|+Cloud+Computing;" />
+  
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sowdapradeep&label=Profile%20Views&color=0e75b6&style=flat" />
