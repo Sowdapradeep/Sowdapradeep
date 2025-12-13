@@ -32,9 +32,6 @@
   <a href="https://leetcode.com/PRADEEP__05">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/itz__me__sowda__59">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 ---
