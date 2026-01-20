@@ -157,7 +157,25 @@ A full-stack e-commerce application with user authentication, product management
 - Secure payment gateway
 
 🔗 **GitHub:** https://github.com/Sowdapradeep/wholesale-market-js
+---
+###⚡ ElectraTrade – B2B Electronics E-Commerce Platform
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, CSS
+**Description:**
+A B2B e-commerce platform designed to connect electronic product manufacturers with electronics shop owners, enabling bulk ordering, product management, and role-based dashboards. The system focuses on streamlining wholesale transactions, improving order management, and providing a scalable digital marketplace for the electronics supply chain.
 
+🔹 Features:
+
+Role-based authentication (Manufacturer, Shop Owner, Admin)
+
+Product catalog with detailed specifications and bulk pricing support
+
+Secure cart, checkout, and order tracking workflow
+
+Manufacturer and shop owner dashboards for managing products and orders
+
+Admin controls for user, product, and order management
+
+🔗 **Live Demo:** https://songify-neon.vercel.app/
 ---
 
 ### 🎵 Songify – AI Mood-Based Music Recommendation
