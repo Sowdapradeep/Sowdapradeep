@@ -187,7 +187,7 @@ An AI-powered system that detects facial expressions in real time and recommends
 - Emotion classification using CNN
 - Personalized song recommendations
 
-🔗 **GitHub:** https://github.com/Sowdapradeep/songify  
+🔗 **GitHub:** https://songify-neon.vercel.app/
 
 ---
 
