@@ -146,7 +146,7 @@
 ---
 
 ### 🛒 Wholesale market E-Commerce Platform
-**Tech Stack:** React, Node.js, Express, MongoDB, Stripe  
+**Tech Stack:** React, Node.js, Express, MongoDB,  
 **Description:**  
 A full-stack e-commerce application with user authentication, product management, cart, and secure payment integration. Designed for scalability and performance.
 
@@ -156,7 +156,7 @@ A full-stack e-commerce application with user authentication, product management
 - Cart & checkout system
 - Secure payment gateway
 
-🔗 **GitHub:** https://github.com/Sowdapradeep/wholesale-market-js
+🔗 **GitHub:**  https://sowdapradeep.github.io/wholesale-market-js/
 
 ---
 
